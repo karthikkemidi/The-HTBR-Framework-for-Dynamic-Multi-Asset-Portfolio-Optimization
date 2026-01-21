@@ -1,4 +1,4 @@
-# The HTBR Framework for Dynamic Multi-Asset Portfolio Optimization
+# The Heirarchial Transformer Boost Reinforcement Learning Framework for Dynamic Multi-Asset Portfolio Optimization
 
 A novel hybrid deep learning framework combining **Hierarchical Transformers**, **XGBoost**, **Ridge Meta-Learning**, and **Deep Reinforcement Learning (PPO)** for optimized multi-asset portfolio management with sentiment integration.
 
